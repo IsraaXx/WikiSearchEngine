@@ -74,7 +74,7 @@ webcrawler-tfidf/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/WikiSearchEngine.git
+   git clone https://github.com/IsraaXx/WikiSearchEngine.git
    cd WikiSearchEngine
    ```
 
@@ -138,7 +138,7 @@ User enters: ancient egypt king
 
 ## 📬 Contact
 
-This project was built as part of **Assignment 2 - Web Crawler with TF-IDF** at [Your University Name].
+This project was built as part of **Assignment 2 - Web Crawler with TF-IDF** at Cairo University.
 
 ---
 
