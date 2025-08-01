@@ -6,7 +6,7 @@ This Java application crawls Wikipedia pages starting from two predefined URLs, 
 
 ## 🚀 Features
 
-- 🔗 Crawls up to **10 distinct Wikipedia pages** starting from two given seed URLs.
+- 🔗 Crawls up to **20 distinct Wikipedia pages** starting from two given seed URLs.
 - 🧹 Extracts and **cleans textual content**, then builds an inverted index (term ➝ [docID, frequency]).
 - 📊 Computes **TF-IDF scores** for terms in each document.
 - 🔍 Accepts a **user query**, applies the same TF-IDF weighting, and computes **cosine similarity** with each document.
