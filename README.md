@@ -56,7 +56,7 @@ webcrawler-tfidf/
 
 | Module                       | Description                                                         | Team Members         |
 |-----------------------------|---------------------------------------------------------------------|----------------------|
-| Web Crawling                | Crawl Wikipedia, avoid duplicates, restrict domain                 | Amany, Israa         |
+| Web Crawling                | Crawl Wikipedia, avoid duplicates, restrict domain                 | Israa, Amany         |
 | Text Normalization & Index  | Tokenization, normalization, inverted index construction           | Joseph, Yousef       |
 | TF-IDF & Ranking            | Compute TF-IDF weights, cosine similarity, and rank documents      | Salma, Jonathan      |
 | Documentation & Comments    | Code documentation, final report                                   | Whole Team           |
@@ -101,8 +101,6 @@ webcrawler-tfidf/
 
 - ✅ Fully working Java application with crawling, indexing, and search functionality.
 - 📄 Report explaining the design of each module.
-- ❌ No need for extra user manual or presentation files.
-
 ---
 
 ## 🧠 Concepts Used
