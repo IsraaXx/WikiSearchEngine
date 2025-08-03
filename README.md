@@ -57,7 +57,7 @@ webcrawler-tfidf/
 | Module                       | Description                                                         | Team Members         |
 |-----------------------------|---------------------------------------------------------------------|----------------------|
 | Web Crawling                | Crawl Wikipedia, avoid duplicates, restrict domain                 | Israa, Amany         |
-| Text Normalization & Index  | Tokenization, normalization, inverted index construction           | Joseph, Yousef       |
+| Text Normalization & Index  | Tokenization, normalization, inverted index construction           | Joseph, Youssef       |
 | TF-IDF & Ranking            | Compute TF-IDF weights, cosine similarity, and rank documents      | Salma, Jonathan      |
 | Documentation & Comments    | Code documentation, final report                                   | Whole Team           |
 
